@@ -1,4 +1,4 @@
-# ChromaKey.js
+# DuoKey.js
 
 
 Contributions welcome, as long as they:
